@@ -4,7 +4,7 @@ As software developers, we learn to abhor maintaining other people's old softwar
 
 This is what we call "legacy software".
 
-But the word "legacy" gets a bad wrap. In most other contexts, it has a positive meaning.
+But the word "legacy" gets a bad rap. In most other contexts, it has a positive meaning.
 
 Maybe we're just bitter.  The average life span of a software system is hardly long enough to even use the word "legacy" to describe it.
 
