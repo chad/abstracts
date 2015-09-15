@@ -4,14 +4,67 @@
 
 ---
 
-# The beginning
+# Saxophone
+
+---
+
+# Doom
 
 
 ---
 
-# My Job Went to India
+# VMS
 
 
+---
+
+# Netware
+
+
+---
+
+# Perl
+
+
+---
+
+# FedEx (mercedes)
+
+---
+
+#  Java + LDAP
+
+---
+
+# Monster.com
+
+
+---
+
+# GE
+
+
+---
+
+# E-Commerce
+
+---
+
+# Ruby
+
+
+--- 
+
+# India
+
+---
+
+# Picture of Dave Thomas
+
+
+---
+
+![fit](mjwti.jpg)
 
 
 ---
@@ -55,7 +108,9 @@ I was a dumbass
 
 ---
 
-# 
+# Be the Worst 
+
+(Choose your team)
 
 ---
 
@@ -211,4 +266,29 @@ Do the "shit" work perfectly and with care
 
 ---
 
+
+# :boom: What's this all about?
+
+---
+
+# When my nephew's asked for advice...
+
+
+---
+
+# There's a reason this book is called "The Passionate Programmer"
+
+---
+
+# Passion is a renewable energy source
+
+
+---
+
+# Passion generates energy, which generates passion, which...
+
+
+---
+
+>  I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.' 
 
