@@ -93,7 +93,7 @@ I was a dumbass
 
 ---
 
-# Show skill tree as an alternative
+![fit](skill-tree.jpg)
 
 
 ---
@@ -116,9 +116,9 @@ I was a dumbass
 
 ---
 
-# Be the Worst 
+![fit](pat-metheny.jpg)
 
-(Choose your team)
+# Choose your team
 
 ---
 
