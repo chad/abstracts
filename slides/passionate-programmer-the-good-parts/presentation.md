@@ -1,63 +1,71 @@
-# The Passionate Programmer...the good parts
 
-:monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey::monkey:
-
----
-
-# Saxophone
+![fit](PPtGP.png)
 
 ---
 
-# Doom
-
+![fit](saxophone.jpg)
 
 ---
 
-# VMS
+![fit](Doom-1-.gif)
 
 
 ---
 
-# Netware
+![fit](vax.jpg)
+
+---
+
+![fit](netware.png)
 
 
 ---
 
-# Perl
+![fit](perl.jpg)
 
 
 ---
 
-# FedEx (mercedes)
+![fit](mercedes.jpg)
+
+^ Fedex
 
 ---
 
-#  Java + LDAP
+![fit](java.png)
+
+^ Java + LDAP
 
 ---
 
-# Monster.com
+![fit](monster.jpg)
+
+---
+
+![fit](ge.jpg)
 
 
 ---
 
-# GE
-
-
----
-
-# E-Commerce
+![fit](ecomm.png)
 
 ---
 
-# Ruby
+![fit](ChadAndKids.jpg)
+
+^ Moved to India. Learned Hindi. "CTO"
+
+---
+
+![fit](ruby.png)
+
+---
+
+![fit](agile-manifesto.png)
 
 
 --- 
 
-# India
-
----
 
 # Picture of Dave Thomas
 
