@@ -3,7 +3,17 @@
 
 ---
 
+![fit](wunderlist.png)
+
+---
+
+![fit](microsoft.png)
+
+---
+
 ![fit](saxophone.jpg)
+
+^ This is a tale of a fully unqualified person with nothing going for him.
 
 ---
 
@@ -40,6 +50,8 @@
 
 ![fit](monster.jpg)
 
+^ Can I make the salary of me and my wife combined?
+
 ---
 
 ![fit](ge.jpg)
@@ -67,13 +79,22 @@
 --- 
 
 
-# Picture of Dave Thomas
+![](Dave_Thomas_speaking_at_the_Pasadena_Rails_Studio.jpg)
+
+^ Dave asked me if I would like to write about my experiences in India
+Mentoring, etc.  "What did you tell them?"
 
 
 ---
 
 ![fit](mjwti.jpg)
 
+---
+
+
+![fit](cfcar2.jpg)
+
+^ later renamed...
 
 ---
 
@@ -91,7 +112,43 @@ That was the start of my career. Since then:
 * Countless interviews, articles, book contributions, etc.
 * Basically, everything
 
+^ The best and HARDEST parts of my career took place after I wrote the book
+^  Rails community
+  Huge conferences
+  And drama
+  Someone called publicly for my execution
+  Crazy client threatened law suit and demanded I be fired
+  Death marches
+  UNICORN GROWTH
+
 ---
+
+# 10 years
+
+![](10years.png)
+
+---
+
+# So what have I learned?
+
+^ How silly I was back then to think  I knew _anything_!  10 years ago I was an idiot, right? 
+Looked through the book 
+Typical sophmoric problem.  TOO MUCH CONTENT.
+
+---
+
+# kamranince.com
+
+![](ince.jpg)
+
+^ What is the essence of this piece?  You have 10 musical ideas here. The piece needs just one!
+
+---
+
+# So let's look for the essence...
+
+---
+
 
 # TOC
 
@@ -103,10 +160,6 @@ That was the start of my career. Since then:
 
 ---
 
-![fit](skill-tree.jpg)
-
-
----
 
 
 # :boom: Choose Your Market
@@ -124,6 +177,13 @@ That was the start of my career. Since then:
 * Which team?
 * Passion / Energy builders
 
+^ All of these things matter!
+
+---
+
+![fit](skill-tree.jpg)
+
+
 ---
 
 ![fit](pat-metheny.jpg)
@@ -140,7 +200,7 @@ That was the start of my career. Since then:
 
 ---
 
-# Murakami + Endurance training
+![fit](murakami.jpg)
 
 ---
 
@@ -153,12 +213,13 @@ That was the start of my career. Since then:
 
 # Mentoring
 
+^ find one. be one.
+
 ---
 
-# Ken Smith
+# Find One
 
-
-3 things: 
+Ken Smith told me 3 things: 
 
 * directory service
 * unix
@@ -185,6 +246,15 @@ That was the start of my career. Since then:
 
 ---
 
+# Be a Mentor
+
+^ If you want to learn something, teach it.
+Martin Fowler writes a book when he wants to learn something.
+Requires you to take something apart into pieces and make sense of it.
+I wrote a career book before my career really started :)
+
+---
+
 # Practice
 
 ![](coltrane.jpeg)
@@ -203,11 +273,19 @@ http://www.slideshare.net/hansjurgenschonig/postgresql-joining-1-million-tables
 
 ---
 
-# :boom: Execution
+# :boom: Execute
 
 If you forget everything else I talk about, remember this part.
 
 ^ Ultimately if you get things done better than anyone else you win
+
+---
+
+# Be Where You're At
+
+![](rageguy.png)
+
+^ The most frustrating thing I encounter is someone with amazing skills and potential who sabotages his- or herself because they are TOO focused on being recognized and visibly leveling up.
 
 ---
 
@@ -221,16 +299,19 @@ If you forget everything else I talk about, remember this part.
 
 # Eight hour burn
 
----
-
-# The Power of Full Engagement
+![](bob.jpg)
 
 ---
 
+![fit](engagement.jpg)
 
-# Right Now
+---
+
+# Do It Right Now
 
 > Parkinson’s law is an empirical observation—not an unescapable human mandate. 
+
+---
 
 
 # Daily Hit
@@ -239,7 +320,9 @@ If you forget everything else I talk about, remember this part.
 
 ---
 
-# How good a job can I do today?
+# [fit] How good a job can I do today?
+
+http://blog.toolshed.com/2003/07/how_good_a_job_.html
 
 ^ Be _perfect_ for a day
 Do the "shit" work perfectly and with care
@@ -270,11 +353,16 @@ Do the "shit" work perfectly and with care
 
 ---
 
-# Remarkability
+
+![](cow.jpg)
+
+^ The best marketing is a remarkable product
 
 ---
 
 # Making the hang
+
+![](chris-parker.jpeg)
 
 ----
 
@@ -285,22 +373,26 @@ Do the "shit" work perfectly and with care
 
 # Avoid turning technologies into religions
 
+![](cult.jpeg)
+
 ---
 
 
-# :monkey:
+![](monkey.jpg)
 
 ---
 
 # :poop: Avoid Waterfall career planning
 
+^ The essence of agility
+
+
+
 ---
 
-# The Essence oF Agility
+![fit](better.png)
 
----
-
-# Better Than Yesterday
+^ How to improve things that are impossibly hard
 
 ---
 
@@ -309,7 +401,7 @@ Do the "shit" work perfectly and with care
 
 ---
 
-# When my nephew's asked for advice...
+# "What should I study in University?"
 
 
 ---
@@ -318,15 +410,27 @@ Do the "shit" work perfectly and with care
 
 ---
 
-# Passion is a renewable energy source
-
+![](renewable.jpg)
 
 ---
 
-# Passion generates energy, which generates passion, which...
+"Passion" doesn't mean OMG FOLLOW UR DREAMS!!!
+
+![](yey.jpg)
+
+---
+
+![](flywheel.jpg)
+
+^ Passion generates energy, which generates passion, which...
 
 
 ---
 
 >  I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.' 
 
+^ It doesn't matter what you do as long as you find something that makes you happy. Don't get so busy trying to succeed that you forget to enjoy life.
+
+---
+
+# [fit] dziękuję
