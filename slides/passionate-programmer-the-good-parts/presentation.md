@@ -77,9 +77,19 @@
 
 ---
 
-# 10 years
 
-I was a dumbass
+That was the start of my career. Since then:
+
+* Independent consulting
+* Sold two companies
+* CTO
+* Conference keynotes
+* World travel
+* Lead teams large and small
+* Rails (Rails Recipes, RailsConf)
+* Immutable Infrastructure
+* Countless interviews, articles, book contributions, etc.
+* Basically, everything
 
 ---
 
@@ -136,6 +146,8 @@ I was a dumbass
 
 # Business - how does it work?
 
+![](business.jpg)
+
 
 ---
 
@@ -145,31 +157,49 @@ I was a dumbass
 
 # Ken Smith
 
-* 3 things: directory service, unix, programming language
+
+3 things: 
+
+* directory service
+* unix
+* programming language
 
 ---
 
-# Advocacy
+![fit](skill-tree.jpg)
 
-Dave Thomas
 
 ---
 
-# How can I help?
+# Advocate
+
+![](Dave_Thomas_speaking_at_the_Pasadena_Rails_Studio.jpg)
+
+^ This is an important part of what a "mentor" turns out to be
+
+---
+
+# "How can I help?"
+
+![](sivers.jpg)
 
 ---
 
 # Practice
 
-push limits, etc.
+![](coltrane.jpeg)
 
 --- 
 
-# Hans Jurgen presentation
+![](postgres.png)
+
+http://www.slideshare.net/hansjurgenschonig/postgresql-joining-1-million-tables
 
 ---
 
 # Read code
+
+![](reading.jpg)
 
 ---
 
