@@ -69,11 +69,11 @@
 
 ---
 
-![fit](ruby.png)
+![fit](agile-manifesto.png)
 
 ---
 
-![fit](agile-manifesto.png)
+![fit](ruby.png)
 
 
 --- 
@@ -99,7 +99,7 @@ Mentoring, etc.  "What did you tell them?"
 ---
 
 
-That was the start of my career. Since then:
+That was the _start_ of my career. Since then:
 
 * Independent consulting
 * Sold two companies
@@ -150,13 +150,16 @@ Typical sophmoric problem.  TOO MUCH CONTENT.
 ---
 
 
-# TOC
+# Table of Contents
 
-* Choose your market
-* Invest in your product
-* Execute
-* Market
-* Refresh
+:boom: Choose your market
+:boom: Invest in your product
+:boom: Execute
+:boom: Market
+:boom: Refresh
+
+^ Build your career like you build a product.
+Blueprint for systems thinking around your career.
 
 ---
 
@@ -167,6 +170,8 @@ Typical sophmoric problem.  TOO MUCH CONTENT.
 ---
 
 # Intention
+
+![](lemmings.png)
 
 ---
 
@@ -190,17 +195,27 @@ Typical sophmoric problem.  TOO MUCH CONTENT.
 
 # Choose your team
 
+^ I'm not sure why, but _everybody_ references this chapter.
+It doesn't really resonate with me, but it must be important.
+
 ---
 
 # :boom: Invest in your product
 
 ---
 
-# Guitar/saxophone after years of ignoring it
+
+![](saxophone.jpg)
+
+^ Guitar/saxophone after years of ignoring it
+I was naturally gifted but never _invested_ in it
 
 ---
 
 ![fit](murakami.jpg)
+
+^ system.
+prodigies
 
 ---
 
@@ -227,8 +242,20 @@ Ken Smith told me 3 things:
 
 ---
 
+# Side note
+
+Here's the list I would give a young person now:
+
+* Hardcore Linux
+* Mobile development (iOS, Android, or Windows Phone)
+* Server-side Functional programming 
+
+
+---
+
 ![fit](skill-tree.jpg)
 
+^ Remember the skill tree idea
 
 ---
 
@@ -248,6 +275,8 @@ Ken Smith told me 3 things:
 
 # Be a Mentor
 
+![fit](martin.jpeg)
+
 ^ If you want to learn something, teach it.
 Martin Fowler writes a book when he wants to learn something.
 Requires you to take something apart into pieces and make sense of it.
@@ -259,11 +288,15 @@ I wrote a career book before my career really started :)
 
 ![](coltrane.jpeg)
 
+^ Remember, "practice" means doing things beyond your limits. If it sounds good it's not practice. Coltrane held a single note for hours.
+
 --- 
 
 ![](postgres.png)
 
 http://www.slideshare.net/hansjurgenschonig/postgresql-joining-1-million-tables
+
+^ here's an example of something that stresses your boundaries in software
 
 ---
 
@@ -330,13 +363,13 @@ Do the "shit" work perfectly and with care
 
 ---
 
-# :boom: Marketing
-
-^ Marketing is a moral imperative
+# [fit] Execution is about effectiveness over efficiency
 
 ---
 
-# Adventure tour guide
+# :boom: Marketing
+
+^ Marketing is a moral imperative
 
 
 ---
@@ -344,12 +377,6 @@ Do the "shit" work perfectly and with care
 # Change the World
 
 ^ Find a bigger purpose than just the job you're hired to do
-
----
-
-# Brand
-
-^ ja
 
 ---
 
@@ -364,8 +391,10 @@ Do the "shit" work perfectly and with care
 
 ![](chris-parker.jpeg)
 
-----
+^ It's uncomfortable. Chris and all musicians (touring with Frank Lowe)
+Rich & Stuart Cheshire
 
+----
 
 # :boom: Mainitaining your edge
 
@@ -375,18 +404,14 @@ Do the "shit" work perfectly and with care
 
 ![](cult.jpeg)
 
----
+^ And/or identity
 
-
-![](monkey.jpg)
 
 ---
 
 # :poop: Avoid Waterfall career planning
 
 ^ The essence of agility
-
-
 
 ---
 
@@ -396,13 +421,21 @@ Do the "shit" work perfectly and with care
 
 ---
 
+![](monkey.jpg)
+
+^ South-Indian Monkey trap
+
+---
+
 
 # :boom: What's this all about?
 
 ---
 
-# "What should I study in University?"
+# "What should my (daughter|son) study in University?"
 
+^ friends or relatives ask this. I always say "It doesn't matter as long as they're excited/passsionate about it. They'll find their way"
+Doing something you are NOT passionate about kills you because....
 
 ---
 
@@ -433,4 +466,8 @@ Do the "shit" work perfectly and with care
 
 ---
 
-# [fit] dziękuję
+# Thank You
+
+@chadfowler
+chad@chadfowler.com
+http://chadfowler.com
