@@ -460,13 +460,15 @@ Doing something you are NOT passionate about kills you because....
 
 ---
 
->  I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.' 
+>  I urge you to please notice when you are happy, and exclaim or murmur or think at some point, 'If this isn't nice, I don't know what is.'  - Kurt Vonnegut
+
+![](vonnegut.jpg)
 
 ^ It doesn't matter what you do as long as you find something that makes you happy. Don't get so busy trying to succeed that you forget to enjoy life.
 
 ---
 
-# Thank You
+# Thank You :heart:
 
 @chadfowler
 chad@chadfowler.com
