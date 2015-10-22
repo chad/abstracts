@@ -9,3 +9,4 @@ But the word "legacy" gets a bad rap. In most other contexts, it has a positive 
 Maybe we're just bitter.  The average life span of a software system is hardly long enough to even use the word "legacy" to describe it.
 
 How can we turn this word around? How can we leave an actual legacy of our work as software developers?
+
