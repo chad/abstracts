@@ -5,6 +5,7 @@
 * Tiny
 * Immutable infrastructure
 * Disposable components
+* The system is the asset. Code is a liability.
 * Radically heterogenous
 * Decoupling
 * Fear and Coupling
@@ -15,6 +16,7 @@
 * "Dependency", "Depending on"
 * Depending on people (autonomous units progressing indepdently)
 * Dependent on PERSON (Only Chris can do X, etc.)  Destroy those components regularly.
+* Runtime, compile-time, development-time, deploy-time
 * Might Conway's Law apply to the way of organizing vs the organization?
 * https://hbr.org/1989/09/managing-without-managers
 
